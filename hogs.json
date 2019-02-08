@@ -91,15 +91,6 @@
       "image": "./hog-imgs/the_prosciutto_concern.jpg"
     },
     {
-      "id": 10,
-      "name": "Galaxy Note",
-      "specialty": "Airport Security",
-      "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.9,
-      "highest medal achieved": "diamond",
-      "image": "./hog-imgs/galaxy_note.jpg"
-    },
-    {
       "id": 11,
       "name": "Leggo My Eggo",
       "specialty": "Babysitting",
@@ -109,13 +100,13 @@
       "image": "./hog-imgs/leggo_my_eggo.jpg"
     },
     {
-      "id": 12,
-      "name": "Augustus Gloop",
-      "specialty": "Vacuum tubes",
-      "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
-      "highest medal achieved": "wood",
-      "image": "./hog-imgs/augustus_gloop.jpg"
+      "name": "Tom",
+      "specialty": "Being a pig",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "0.5",
+      "highest medal achieved": "gold",
+      "image": "https://i.pinimg.com/originals/65/c1/7f/65c17fae08acccc2912f4cafac255eb6.jpg",
+      "id": 13
     }
   ]
 }
